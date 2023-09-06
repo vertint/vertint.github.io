@@ -2,8 +2,8 @@
 layout: post
 title: "Cals Burning Man 2024"
 description: "Design Build Proposal for an Art Installation at Burning Man"
-date: 2023-08-05
-feature_image: images/road.jpg
+date: 2023-09-05
+feature_image: d.jpg
 tags: [tips, work]
 ---
 
