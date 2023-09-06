@@ -1,13 +1,17 @@
 ---
 layout: post
-title: "Graphic Designer On The Road"
-description: "A graphic designer is a professional within the graphic design and graphic arts industry."
-date: 2022-01-05
+title: "Cals Burning Man 2024"
+description: "Design Build Proposal for an Art Installation at Burning Man"
+date: 2023-08-05
 feature_image: images/road.jpg
 tags: [tips, work]
 ---
 
-A graphic designer is a professional within the graphic design and graphic arts industry who assembles together images, typography, or motion graphics to create a piece of design. A graphic designer creates the graphics primarily for published, printed or electronic media, such as brochures (sometimes) and advertising. They are also sometimes responsible for typesetting, illustration, user interfaces, web design, or take a teaching position. A core responsibility of the designer's job is to present information in a way that is both accessible and memorable.
+We have a few Ideas 
+Mars Hab
+Inflatable Structure
+Structure on Some Kind of Stilts
+Draped Canvas that creates a maze.
 
 <!--more-->
 
